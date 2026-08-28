@@ -1,1 +1,2 @@
 # AgileScrum
+new agile methos
